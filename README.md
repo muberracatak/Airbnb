@@ -1,6 +1,8 @@
 # Airbnb Clone App
 
-## Create a new project 
+This project is cloning of airbnb app with react native. And Login Signup pages of this project are authored with aws amplify.
+
+### Create a new project 
 
 ### With Expo 
 
