@@ -24,7 +24,7 @@ ruby --version
 
 npx react-native init AwesomeProject
 
-We start the project 🚀
+### We start the project 🚀
 
 cd AwesomeProject && react-native run-ios
 
